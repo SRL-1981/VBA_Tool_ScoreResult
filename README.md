@@ -1,5 +1,7 @@
 # VBA_Tool_ScoreResult
-SubプロシージャとFunctionプロシージャを組み合わせたVBAツール。
+SubプロシージャとFunctionプロシージャを組み合わせて、架空の試験結果データから
+
+3教科の平均点算出と合格不合格の判定を自動化するVBAツール。
 
 
 （ScoreResult 概要）
